@@ -16,6 +16,6 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":"0", "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"23.94.174.160","active":"true","signal":"c"}
+    {"id":0, "file":"0", "city":"Los Angeles CA","country":"United States","image":"unitedstates","ip":"139.180.147.96","active":"true","signal":"c"}
   ]
 }
